@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git is a good software.
 Git has a mutable index called stage.
 Git tracks changes of files.
+A man should have a strong heart.
